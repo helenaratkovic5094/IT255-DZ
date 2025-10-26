@@ -1,0 +1,16 @@
+{
+  "phones": [
+    {
+      "marka": "Samsung",
+      "model": "Galaxy S21",
+      "cena": 1100,
+      "id": 1
+    },
+    {
+      "marka": "Huawei",
+      "model": "P40",
+      "cena": 900,
+      "id": 3
+    }
+  ]
+}
